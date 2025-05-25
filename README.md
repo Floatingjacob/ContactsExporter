@@ -1,4 +1,7 @@
 # ContactsExporter
+
+NOTE: THIS PROJECT WILL ONLY WORK ON LINUX (at the moment)
+
 exports all google contacts and embeds contact icons
 
 this program was tested with python 3.12 on linux mint
